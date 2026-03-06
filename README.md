@@ -6,6 +6,10 @@
 
 ## ⚡ QUICK START (Windows)
 
+The HTML FILE - WEBSITE IN BROWSER BETA ( not completely BUild )
+Chrome is blocking Celestrack, so coming soon
+But you can run INDEX.HTML it will work ( Not related to Steamlit One )
+
 ```powershell
 # 1. Open PowerShell in your orbital_guardian folder
 # 2. Activate virtual environment
